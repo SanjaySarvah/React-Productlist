@@ -21,6 +21,6 @@ This project is a simple e-commerce cart application built with React and Tailwi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-ecommerce-cart.git
+   git clone (https://github.com/SanjaySarvah/React-Productlist.git)
 
    install npm packages
